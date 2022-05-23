@@ -1,0 +1,12 @@
+
+
+.CharactersContainer {
+    background-color: #252633;
+    display: flex;
+    flex-wrap: wrap;
+    /* overflow: scroll; */
+
+}
+
+
+

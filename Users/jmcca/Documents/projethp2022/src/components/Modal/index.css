@@ -1,0 +1,44 @@
+
+
+.modale {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(1,1,1,0.8);
+    position: fixed;
+    top:0;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.modale > div {
+    color: rgb(238, 235, 243);
+}
+
+
+.modale > img {
+    width: 250px;
+    height: calc(250px*1.618);
+    object-fit: cover;
+    object-position: center;
+    border: 4px solid rgb(222, 13, 13);
+}
+
+.h4 {
+    text-align: center;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.ModaleContainer > div {
+    color:white;
+    font-size: 25px;
+    font-family: 'Metal Mania', cursive;
+}
+
+
+
+

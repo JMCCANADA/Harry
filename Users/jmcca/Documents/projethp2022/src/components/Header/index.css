@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+.headerContainer{
+  background-color: #252633;
+  color:white;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+ 
+  font-size: 50px;
+  font-family: 'Metal Mania', cursive;
+}
+
+
+.headerContainer2 {
+  background-color: rgb(10, 11, 9);
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+  }
+
+  .sideBoxes {
+    display: flex;
+    gap: 120px;
+    background-color: rgb(10, 11, 9);
+    padding: 35px;
+  }
+  .sideBoxes span {
+    font-family: "Indie Flower", cursive;
+    color: white;
+    text-decoration: underline;
+    background-color: rgb(230, 15, 15);
+    font-size: 40px;
+    justify-content:baseline;
+  }
+  

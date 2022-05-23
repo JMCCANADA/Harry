@@ -1,0 +1,16 @@
+.HeroContainer{
+  width: 100%;
+  height: 400px;
+  /* background-color: red; */
+  background-image: url("../../assets/salle-de-classe.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.HeroContainer > div {
+  color:white;
+  font-size: 100px;
+  font-family: 'Metal Mania', cursive;
+}
